@@ -23,8 +23,7 @@
 ![2](https://github.com/aqsasayyed/Recipe-App/assets/84732662/78d8666a-ae9b-4d2c-b9d3-829cf036c659)
 
 
-#How to run Recipe App
-
+# How to run Recipe App
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
