@@ -10,8 +10,8 @@
 
 ![Screenshot (5)](https://github.com/aqsasayyed/Recipe-App/assets/84732662/98658cbd-ebd6-4c71-bf5a-34f665d1e200)
 
-![Screenshot (6)](https://github.com/aqsasayyed/R![recipe](https://github.com/aqsasayyed/Recipe-App/assets/84732662/321b3a59-3695-4bc7-9b98-df8b0981adc8)
-ecipe-App/assets/84732662/23010bab-a65e-47c3-a61c-a193ae235a70)
+![recipe](https://github.com/aqsasayyed/Recipe-App/assets/84732662/805ca771-182e-4735-8ac1-a1b5fa54c9f4)
+
 
 ![reci](https://github.com/aqsasayyed/Recipe-App/assets/84732662/9047b38b-cae3-4d75-9be8-7048a475c532)
 
